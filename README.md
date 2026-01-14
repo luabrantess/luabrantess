@@ -6,10 +6,12 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🔭 Atualmente atuando na Fundação Banco do Brasil  
-- 🌱 Estudando **PHP**, **Java** e **Python**  
-- 👯 Buscando colaborar em projetos com **Laravel**  
-- 💬 Sempre aberta para trocar ideias sobre desenvolvimento e tecnologia  
+- Formada em Análise e Desenvolvimento de Sistemas
+- Pós graduada em Inteligência Artificial
+- Experiência em **PHP**, **Java** e **Python**  
+- Buscando colaborar em projetos com **Python**  
+- Sempre aberta para trocar ideias sobre desenvolvimento e tecnologia
+- Proativa e comunicativa
 
 ---
 
