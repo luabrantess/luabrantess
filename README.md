@@ -7,6 +7,7 @@
 ### 👩‍💻 Sobre mim
 
 - Formada em Análise e Desenvolvimento de Sistemas
+- Graduanda em Engenharia de Software
 - Pós graduada em Inteligência Artificial
 - Experiência em **PHP**, **Java** e **Python**  
 - Buscando colaborar em projetos com **Python**  
